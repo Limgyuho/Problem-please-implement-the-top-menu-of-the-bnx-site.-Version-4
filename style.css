@@ -1,0 +1,28 @@
+
+div {
+    text-align: center;
+    
+}
+
+div >a {
+    font-size: 3rem;
+    text-decoration: none;
+    font-weight: blod;
+    color: black;
+    letter-spacing: -0.2rem;
+}
+nav > a {
+    text-decoration: none;
+    width: 120px;
+    color: black;
+    display: inline-block;
+    text-align:center;
+    font-weight: bold;
+}
+nav{
+    font-weight: bold;
+    text-align: center;
+}
+nav > a:hover {
+  color:red;
+}
